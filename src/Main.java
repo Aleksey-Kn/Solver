@@ -6,7 +6,6 @@ import java.io.File;
 
 public class Main {
     public static void main(String[] args){
-        /*
         File filein = null;
         File fileout = null;
         for(int i = 0; i < args.length - 1; i++) {
@@ -17,9 +16,6 @@ public class Main {
                 fileout = new File(args[++i]);
             }
         }
-        */
-        File filein = new File("C:\\Студенческая\\Java\\Linear Equations Solver", "in.txt");
-        File fileout = new File("C:\\Студенческая\\Java\\Linear Equations Solver", "out.txt");
         try {
             Scanner scan = new Scanner(filein); // открытие файлов на запись и чтение
             FileWriter writer = new FileWriter(fileout, false);
