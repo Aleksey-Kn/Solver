@@ -26,7 +26,7 @@ public class Main {
             float[] result = new float[kolKor];
             for(int i = 0; i < kolKor; i++){
                 for(int j = 0; j <= kolKor; j++){
-                    mat[i][j] = scan.nextInt();
+                    mat[i][j] = scan.nextFloat();
                 }
             }
             scan.close();
@@ -57,7 +57,7 @@ public class Main {
             }
 
             for (int i = 0; i < kolKor; i++){
-                writer.write(result[i] + "\t");
+                writer.write(result[i] + "\n");
             }
             writer.close();
         }
