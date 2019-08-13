@@ -202,7 +202,7 @@ public class Main {
             }
 
             for (int i = 0; i < kolStolb; i++){
-                writer.write(result[i] + "\n");
+                writer.write(result[i] + "\n\t");
             }
             System.out.println("Saved to file " + fileout.getName());
             writer.close();
