@@ -20,10 +20,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="146" column="91" lean-forward="true" selection-start-line="146" selection-start-column="91" selection-end-line="146" selection-end-column="91" />
+            <state relative-caret-position="-5775">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#12493#12494#0" expanded="true" />
+                <element signature="e#12520#12521#0" expanded="true" />
+                <element signature="e#12554#12555#0" expanded="true" />
+                <element signature="e#12586#12587#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,22 +61,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Linear Equations Solver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Linear Equations Solver" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Course" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -134,7 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1565378221623</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Work with 0 and matrix different size">
+      <created>1565720979475</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565720979475</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add new tabulation for out">
+      <created>1565721217694</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565721217694</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -173,7 +175,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Can read arguments command string" />
     <MESSAGE value="nextFloat instead nextInt" />
-    <option name="LAST_COMMIT_MESSAGE" value="nextFloat instead nextInt" />
+    <MESSAGE value="Work with 0 and matrix different size" />
+    <MESSAGE value="Add new tabulation for out" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new tabulation for out" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -182,10 +186,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="146" column="91" lean-forward="true" selection-start-line="146" selection-start-column="91" selection-end-line="146" selection-end-column="91" />
+        <state relative-caret-position="-5775">
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#12493#12494#0" expanded="true" />
+            <element signature="e#12520#12521#0" expanded="true" />
+            <element signature="e#12554#12555#0" expanded="true" />
+            <element signature="e#12586#12587#0" expanded="true" />
           </folding>
         </state>
       </provider>
